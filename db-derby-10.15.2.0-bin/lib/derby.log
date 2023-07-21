@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Apr 29 19:34:44 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0180-75a3-675b-00000aea56b8 
+on database directory C:\Users\ykthe\eclipse-workspace\Mess-Management\MESS_DATABASE with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2a139a55 
+Loaded from file:/F:/Development/MessSoftware/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-LTS-86
+user.dir=F:\Development\MessSoftware\db-derby-10.15.2.0-bin\lib
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
